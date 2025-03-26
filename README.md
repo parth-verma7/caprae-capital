@@ -2,6 +2,9 @@
 
 This tool extracts company data (Name, Description, Number of Employees) from websites and updates a Google Sheet using Gemini 2.0 Flash and a Playwright-based `browser_use` agent.
 
+📄 **[Read the Full Report](report.md)**  
+🎥 **[Watch Demo Video](https://www.loom.com/share/fe9bc08c2dd944588599b9120fbbbdf9?sid=89f269ae-c755-4e95-b5d3-ca24607b758b**  
+
 ## Installation
 
 ### Prerequisites
