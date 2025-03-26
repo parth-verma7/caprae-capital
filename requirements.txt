@@ -1,0 +1,9 @@
+browser-use
+gspread
+python-dotenv
+google-generativeai
+langchain-google-genai
+nest_asyncio
+pydantic
+playwright
+google-genai
